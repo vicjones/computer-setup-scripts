@@ -17,6 +17,7 @@ chmod 600 ~/.ssh/di_aws_key
 # Dev Tools
 brew install awscli
 brew install cli53
+brew install --cask aws-vpn-client
 brew install --cask virtualbox
 brew install --cask vagrant
 brew install --cask cyberduck
