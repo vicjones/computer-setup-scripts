@@ -1,0 +1,11 @@
+Gnome Theme
+https://github.com/vinceliuice/Orchis-theme
+
+Icon Pack
+https://github.com/vinceliuice/Tela-icon-theme
+
+Terminal Themes (#198)
+bash -c  "$(wget -qO- https://git.io/vQgMr)" 
+ 
+Gedit Themes
+https://github.com/mig/gedit-themes
