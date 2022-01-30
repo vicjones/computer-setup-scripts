@@ -2,6 +2,8 @@
 
 # Install brew before running this script with the command below
 # /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# Brew Cheat Sheet
+# https://devhints.io/homebrew
 
 # Fix ssh keys permissions
 chmod 700 ~/.ssh
@@ -21,7 +23,6 @@ brew install --cask aws-vpn-client
 brew install --cask virtualbox
 brew install --cask vagrant
 brew install --cask cyberduck
-brew install --cask sublime-text
 brew install --cask iterm2
 
 # Browsers
