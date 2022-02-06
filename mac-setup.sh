@@ -23,7 +23,7 @@ brew install --cask aws-vpn-client
 brew install --cask virtualbox
 brew install --cask vagrant
 brew install --cask cyberduck
-brew install --cask iterm2
+#brew install --cask iterm2
 
 # Browsers
 brew install --cask brave-browser
@@ -34,7 +34,7 @@ brew install --cask bitwarden
 brew install --cask standard-notes
 
 # Communication tools
-brew install --cask slack
+#brew install --cask slack
 brew install --cask discord
 brew install --cask zoom
 
