@@ -20,25 +20,19 @@ chmod 600 ~/.ssh/di_aws_key
 brew install awscli
 brew install cli53
 brew install --cask aws-vpn-client
-brew install --cask virtualbox
+brew install --cask parallels
 brew install --cask vagrant
 brew install --cask cyberduck
-#brew install --cask iterm2
 
 # Browsers
 brew install --cask brave-browser
 brew install --cask firefox
 
-# Productivity Tools
-brew install --cask bitwarden
-brew install --cask standard-notes
-
 # Communication tools
-#brew install --cask slack
 brew install --cask discord
 brew install --cask zoom
 
 # Miscellaneous tools
-brew install --cask transmission
 brew install --cask vlc
 brew install --cask imageoptim
+brew install --cask protonvpn
