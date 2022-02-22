@@ -23,6 +23,7 @@ brew install --cask aws-vpn-client
 brew install --cask parallels
 brew install --cask vagrant
 brew install --cask cyberduck
+brew install --cask phpstorm
 
 # Browsers
 brew install --cask brave-browser
