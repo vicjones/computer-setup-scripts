@@ -38,4 +38,4 @@ brew install --cask zoom
 brew install --cask vlc
 brew install --cask protonvpn
 brew install --cask keka
-brew install --cash transmission
+brew install --cask transmission
