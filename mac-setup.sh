@@ -22,6 +22,7 @@ brew install cli53
 brew install --cask aws-vpn-client
 brew install --cask parallels
 brew install --cask vagrant
+vagrant plugin install vagrant-parallels
 brew install --cask cyberduck
 brew install --cask phpstorm
 
@@ -35,7 +36,6 @@ brew install --cask zoom
 
 # Miscellaneous tools
 brew install --cask vlc
-brew install --cask imageoptim
 brew install --cask protonvpn
 brew install --cask keka
 brew install --cash transmission
